@@ -9,27 +9,153 @@ Homework
 
 There are eight problem sets for this course. Undergraduate students should answer 2 out of 4 questions on each of the first five problem sets, and then answer all questions on the remaining problem sets. Graduate students should answer 3 out of 4 questions on each of the first five problem sets. The [term paper](#termpaper) takes the place of the other three problem sets for graduate students.
 
-| Assignments | PROBLEMS |
-| --- | --- |
-| Problem Set 1 | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset1)) |
-| Problem Set 2 | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset2)) |
-| Problem Set 3 | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset3)) |
-| Problem Set 4 | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset4)) |
-| Problem Set 5 | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset5)) |
-| Problem Set 6 | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset6)) |
-| Problem Set 7 | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset7)) |
-| Problem Set 8 | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset8)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Assignments
+{{< thclose >}}
+{{< thopen >}}
+PROBLEMS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 1
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 2
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 3
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 4
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 5
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 6
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 7
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 8
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_pset8))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Exams
 -----
 
 Undergraduates enrolled in Introduction to Sustainable Energy complete two take-home midterm exams and a final exam. The take-home exams are due at noon the day after they are issued.
 
-| EXAMS | Problems | SOLUTIONS |
-| --- | --- | --- |
-| Take-home exam 1 | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_midterm1)) | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_midterm1_sol)) |
-| Take-home exam 2 | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_midterm2)) | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_midterm2_sol)) |
-| Final exam | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_finalexam)) |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+EXAMS
+{{< thclose >}}
+{{< thopen >}}
+Problems
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Take-home exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_midterm1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_midterm1_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Take-home exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_midterm2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_midterm2_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_finalexam))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "termpaper" >}}{{< /anchor >}}Term Paper
 ---------------------------------------------------

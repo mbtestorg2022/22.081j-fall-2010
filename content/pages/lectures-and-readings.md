@@ -10,53 +10,1153 @@ Readings are assigned from the course text:
 
 Additional readings are listed on the [Related Resources]({{< baseurl >}}/pages/related-resources) page. All lecture slides posted below are used with permission of the authors. Many lecture sessions are split in two, with separate lecturers, presentations, and readings for each part.
 
-| LEC # | INSTRUCTORS | TOPICS | SLIDES | READINGS |
-| --- | --- | --- | --- | --- |
-| {{< td-colspan 5 >}}**Part I: Energy in context**{{< /td-colspan >}} |||||
-| 1a | Golay |  {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}} \- Historical context (the post steam engine evolving growth of the developed countries, superimposed on the growing energy needs of the less-developed countries) {{< br >}}{{< br >}} \- Energy sources for a more sustainable future {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Overview and administration ([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec01a_1)) {{< br >}}{{< br >}} Energy uses in different countries (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 9.4MB]({{< baseurl >}}/resources/mit22_081jf10_lec01a_2)) {{< br >}}{{< br >}} (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 8.9MB]({{< baseurl >}}/resources/mit22_081jf10_lec01a_3)) {{< br >}}{{< br >}}  | Chapter 1 |
-| 1b | Wright |  {{< br >}}{{< br >}} Overview of energy use and related issues {{< br >}}{{< br >}} \- Major energy options; issues of supply and demand {{< br >}}{{< br >}} \- Overview of units and dimensions for global energy flows (Quads, MMBOE, MW, EJ, etc.); energy conversions (chemical to thermal, chemical to electric, etc.); and economic considerations {{< br >}}{{< br >}}  | ([PDF - 1.3MB]({{< baseurl >}}/resources/mit22_081jf10_lec01b)) | Chapter 9 |
-| 2 | [Ronald Prinn](http://web.mit.edu/rprinn/), MIT Earth, Atmospheric, and Planetary Sciences |  {{< br >}}{{< br >}} "Climate Change: Science, Economics, and Policy." {{< br >}}{{< br >}} Global climate change issues and responses {{< br >}}{{< br >}} \- Greenhouse gas emissions and potential effects {{< br >}}{{< br >}} \- Modeling of atmospheric, oceanic, and terrestrial effects {{< br >}}{{< br >}} \- Effects on ecology and biodiversity (local-regional-global) {{< br >}}{{< br >}} \- Responses to CO2 build-up {{< br >}}{{< br >}} \- Mitigation? {{< br >}}{{< br >}}  | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB]({{< baseurl >}}/resources/mit22_081jf10_lec02)) | Sections 4.1-4.3 |
-| 3a | Field |  {{< br >}}{{< br >}} Toolbox 1: Energy transfer and conversion methods {{< br >}}{{< br >}} \- Energy sources and uses {{< br >}}{{< br >}} \- Survey of conversion processes {{< br >}}{{< br >}} \- Conversion efficiency and rate considerations {{< br >}}{{< br >}} \- Conversion case study {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec03a)) | Chapter 3 |
-| 3b | Golay |  {{< br >}}{{< br >}} Drake, Elisabeth. "Energy and Sustainability Issues." 10.391J, January 2007. {{< br >}}{{< br >}} Sustainability, energy, and clean technologies in context {{< br >}}{{< br >}} \- Frameworks for evaluation {{< br >}}{{< br >}} \- Sustainability attributes {{< br >}}{{< br >}} \- Time and space scales {{< br >}}{{< br >}} \- Population and consumption growth {{< br >}}{{< br >}} \- Tradeoffs and choices {{< br >}}{{< br >}} \- Uncertainty {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec03b)) | Sections 6.1, 6.4-6.6 |
-| 4a | Wright |  {{< br >}}{{< br >}} Recitation 1: Discussion of sustainability issues {{< br >}}{{< br >}} \- Energy footprints {{< br >}}{{< br >}} \- Opportunities and barriers; timing issues {{< br >}}{{< br >}} \- Drivers of change {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec04a)) |   {{< br >}} |
-| 4b | Golay |  {{< br >}}{{< br >}} Toolbox 2: Resource evaluation and depletion analyses {{< br >}}{{< br >}} \- Present energy sources (fossil, nuclear, hydro) {{< br >}}{{< br >}} \- Major energy alternatives (solar, geologic, ocean) {{< br >}}{{< br >}} \- Resource base – uncertainties, grade/quality issues, resource vs. reserve estimates, economic evaluation frameworks {{< br >}}{{< br >}} \- Other resource constraints that affect sustainability (esp. land, water, labor) {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec04b)) | Chapter 2 |
-| 5a | Field |  {{< br >}}{{< br >}} Toolbox 3: Energy conversion, transmission, and storage {{< br >}}{{< br >}} \- Matching supply and demand to minimize losses {{< br >}}{{< br >}} \- Energy storage and transmission issues {{< br >}}{{< br >}} \- Energy chains and connected efficiencies {{< br >}}{{< br >}} \- Storage modes {{< br >}}{{< br >}} \- Ragone plot {{< br >}}{{< br >}} \- Transmission of fossil fuels and electricity {{< br >}}{{< br >}}  | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit22_081jf10_lec05a)) | Chapter 16 |
-| 5b | Katherine Dykes, MIT Engineering Systems Division | "Wind Power Fundamentals." (contributions from Alex Kalmikov and Kathy Araujo) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.8MB]({{< baseurl >}}/resources/mit22_081jf10_lec05b)) | Chapter 15 |
-| 6a | Wright |  {{< br >}}{{< br >}} Toolbox 4: Systems analysis methodologies {{< br >}}{{< br >}} \- Scoping analysis; simulation models; economic models; life cycle analysis; systems dynamic models; decision models {{< br >}}{{< br >}} \- Selecting system boundaries {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec06a)) | Section 6.2, 6.3 |
-| 6b | Golay |  {{< br >}}{{< br >}} Toolbox 5: Energy supply, demand, and storage planning {{< br >}}{{< br >}} \- Matching energy density of supply and demand {{< br >}}{{< br >}} \- Temporal and geographical distributions {{< br >}}{{< br >}} \- Energy transmission and distribution (pipelines, tankers, rail, power lines) {{< br >}}{{< br >}} \- Role of energy storage; intermittency; influences of pricing during demand peaks and valleys {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec06b)) | &nbsp; |
-| 7a | Stephen Fairfax, MTechnology, Inc. |  {{< br >}}{{< br >}} "Changes in the Electric Power Sector." {{< br >}}{{< br >}} The electric power system and requirements for success {{< br >}}{{< br >}}  | ([PDF - 1.6MB]({{< baseurl >}}/resources/mit22_081jf10_lec07a)) | Chapter 17 |
-| 7b | Tim Heidel, MIT Energy Initiative |  {{< br >}}{{< br >}} "New Challenges and Opportunities for the Electric Grid." {{< br >}}{{< br >}} Historical factor and prospects for change in the electric power grid {{< br >}}{{< br >}}  | ([PDF - 2.2MB]({{< baseurl >}}/resources/mit22_081jf10_lec07b)) | &nbsp; |
-| 8a | Wright | Toolbox 6: Electrical systems dynamics | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec08a)) | &nbsp; |
-| 8b | Wright |  {{< br >}}{{< br >}} Toolbox 7: Economic feasibility assessment methods {{< br >}}{{< br >}} \- Engineering, capital, and investment costs {{< br >}}{{< br >}} \- Matching energy density of supply and demand {{< br >}}{{< br >}} \- Temporal and geographical distributions {{< br >}}{{< br >}} \- Energy transmission and distribution (pipelines, tankers, rail, power lines) {{< br >}}{{< br >}} \- Role of energy storage; intermittency; influences of pricing during demand peaks and valleys {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec08b)) | Chapter 5 |
-| 9a | Field |  {{< br >}}{{< br >}} Toolbox 8: Thermodynamics and efficiency calculations {{< br >}}{{< br >}} \- First and second laws {{< br >}}{{< br >}} \- Availability {{< br >}}{{< br >}} \- Power cycles and heat pumps {{< br >}}{{< br >}} \- Topping and bottoming cycles {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec09a)) | Chapter 3 |
-| 9b | [Robert Stavins](https://www.hks.harvard.edu/faculty/robert-stavins), Harvard Kennedy School of Government |  {{< br >}}{{< br >}} "International Climate Change Policy: From Copenhagen to Cancún, and Beyond." {{< br >}}{{< br >}} Carbon limitation policy options {{< br >}}{{< br >}} \- Cap and trade {{< br >}}{{< br >}} \- Carbon tax {{< br >}}{{< br >}} \- Command and control {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec09b)) |
-| {{< td-colspan 5 >}}**Part II: Specific Energy Technologies**{{< /td-colspan >}} |||||
-| 10 | Golay | Nuclear energy I: Basics and current status | ([PDF - 1.8MB]({{< baseurl >}}/resources/mit22_081jf10_lec10)) | Chapter 8 |
-| 11a | Field |  {{< br >}}{{< br >}} Fossil energy I {{< br >}}{{< br >}} \- Fuel conversion, power cycles, combined cycles {{< br >}}{{< br >}} \- Advanced technologies {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec11a)) | Chapter 15 |
-| 11b | Green |  {{< br >}}{{< br >}} "The Dominant Piece of the Energy System: Fossil Fuels." {{< br >}}{{< br >}} Fossil energy II {{< br >}}{{< br >}} \- Types and characteristics {{< br >}}{{< br >}} \- Technologies {{< br >}}{{< br >}} \- Associated economics and impacts {{< br >}}{{< br >}} \- Fossil fuel switching (synfuels, LNG, carbon sequestration) {{< br >}}{{< br >}}  | ([PDF - 1.1MB]({{< baseurl >}}/resources/mit22_081jf10_lec11b)) | &nbsp; |
-| 12a | Craig Olmsted, Cape Wind | Cape Wind energy and offshore wind projects | none | Chapter 7 |
-| 12b | [Ernest Moniz](http://web.mit.edu/physics/people/faculty/moniz_ernest.html), MIT Physics / Engineering Systems Division | Current energy policy | ([PDF - 3.0MB]({{< baseurl >}}/resources/mit22_081jf10_lec12b)) | &nbsp; |
-| 13a | [Ralph Gakenheimer](http://dusp.mit.edu/faculty/ralph-gakenheimer), MIT Urban Studies and Planning |  {{< br >}}{{< br >}} "Transport Issues and the Environment in Latin America." {{< br >}}{{< br >}} Transportation in developing countries {{< br >}}{{< br >}}  | ([PDF - 2.3MB]({{< baseurl >}}/resources/mit22_081jf10_lec13a)) | &nbsp; |
-| 13b | Green |  {{< br >}}{{< br >}} Fossil energy III {{< br >}}{{< br >}} \- Alternative transportation fuels {{< br >}}{{< br >}} \- Emission performance improvements {{< br >}}{{< br >}} \- Connections to new engine technology {{< br >}}{{< br >}} \- Cleaner fuel {{< br >}}{{< br >}}  | ([PDF - 1.2MB]({{< baseurl >}}/resources/mit22_081jf10_lec13b)) | &nbsp; |
-| 14a | Ralph Izzo, PSEG | Electricity generation options | none | Chapter 12 |
-| 14b | Golay | Nuclear energy II: Waste disposal and Yucca Mountain | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.5MB]({{< baseurl >}}/resources/mit22_081jf10_lec14b)) | &nbsp; |
-| 15a | Golay | Nuclear energy III: Expansion of civilian nuclear power and proliferation | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB]({{< baseurl >}}/resources/mit22_081jf10_lec15a)) | &nbsp; |
-| 15b | Wright | Fusion as a future energy source? | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.1MB]({{< baseurl >}}/resources/mit22_081jf10_lec15b)) | &nbsp; |
-| 16a | Michael Fehler, MIT Earth, Atmospheric, and Planetary Sciences | Carbon management options | none | &nbsp; |
-| 16b | Michael Fehler, MIT Earth, Atmospheric, and Planetary Sciences |  {{< br >}}{{< br >}} Geothermal energy {{< br >}}{{< br >}} \- Resources, types, magnitudes {{< br >}}{{< br >}} \- Technical, environmental, societal, and economic issues {{< br >}}{{< br >}} \- Drilling technologies {{< br >}}{{< br >}} \- Subsurface reservoir systems {{< br >}}{{< br >}} \- Heat and power conversion techniques {{< br >}}{{< br >}}  | none | Chapter 11 |
-| 17 | [Vladimir Bulovic](http://www.rle.mit.edu/people/directory/vladimir-bulovic/), MIT Electrical Engineering and Computer Science |  {{< br >}}{{< br >}} "Capturing Solar Energy." {{< br >}}{{< br >}} Solar photovoltaics and thermal energy {{< br >}}{{< br >}}  | none | Chapter 10 |
-| 18 | Hussein Abdelhalim, Mark Artz, et al. | Recitation 2: Carbon limitation options / critique (student-led discussion) | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec18)) | &nbsp; |
-| 19a | Green | Biomass I: Resources and uses {{< br >}}{{< br >}} \- Resource types and requirements {{< br >}}{{< br >}} \- Technical and environmental issues {{< br >}}{{< br >}} \- Utilization options {{< br >}}{{< br >}} \- Economic projections {{< br >}}{{< br >}}  | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit22_081jf10_lec19a)) | &nbsp; |
-| 19b | Green | Biomass II: Producing liquid fuels | ([PDF - 1.3MB]({{< baseurl >}}/resources/mit22_081jf10_lec19b)) | &nbsp; |
-| {{< td-colspan 5 >}}**Part III: Energy end use, option assessment, and tradeoff analysis**{{< /td-colspan >}} |||||
-| 20a | Don MacKenzie, MIT Engineering Systems Division |  {{< br >}}{{< br >}} "Automotive Technologies and Fuel Economy Policy." (contributions from Irene Berry) {{< br >}}{{< br >}} Transportation {{< br >}}{{< br >}} \- Technology issues {{< br >}}{{< br >}} \- Timescales for change {{< br >}}{{< br >}}  | ([PDF - 2.2MB]({{< baseurl >}}/resources/mit22_081jf10_lec20a)) | Sections 18.4-18.6 |
-| 20b | Addison Stark, MIT Mechanical Engineering |  {{< br >}}{{< br >}} Lifecycle analysis of biomass conversion {{< br >}}{{< br >}} \- Land use issues (ecological stress, competition with food, water use, topsoil erosion, occupational hazards) {{< br >}}{{< br >}} \- Net energy balance and energy integration opportunities {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec20b)) | &nbsp; |
-| 21a | Katherine Dykes, MIT Engineering Systems Division |  {{< br >}}{{< br >}} "Systems Dynamics & Sustainable Energy." {{< br >}}{{< br >}} Wind system dynamics, barriers to entry {{< br >}}{{< br >}}  | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit22_081jf10_lec21a)) | Chapter 17 |
-| 21b | [Donald Sadoway](https://dmse.mit.edu/people/donald-r-sadoway), MIT Materials Science & Engineering |  {{< br >}}{{< br >}} "Electrochemical Approaches to Electrical Energy Storage." {{< br >}}{{< br >}} Electrochemical energy conversions {{< br >}}{{< br >}} \- Fuel Cells {{< br >}}{{< br >}} \- Batteries {{< br >}}{{< br >}}  | ([PDF - 4.6MB]({{< baseurl >}}/resources/mit22_081jf10_lec21b)) | &nbsp; |
-| 22a | [Leon Glicksman](http://architecture.mit.edu/people/profiles/prglicks.html), MIT Architecture / Mechanical Engineering |  {{< br >}}{{< br >}} "The Energy Crisis: A Neglected Solution." {{< br >}}{{< br >}} Sustainable buildings in developing countries {{< br >}}{{< br >}}  | ([PDF - 4.6MB]({{< baseurl >}}/resources/mit22_081jf10_lec22a)) | Chapter 20 |
-| 22b | Golay | Toolbox 9: Probabilistic risk analysis | ([PDF - 3.2MB]({{< baseurl >}}/resources/mit22_081jf10_lec22b)) | &nbsp; |
-| 23 | Edward Alfano, et al. | Recitation 3: Current energy policy / critique (student-led discussion) | ([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec23)) | &nbsp; |
-| 24a | [John Reilly](https://mitsloan.mit.edu/faculty/directory/john-m-reilly), MIT Sloan School of Management |  {{< br >}}{{< br >}} "Why So Little Progress on International Climate Negotiations?" {{< br >}}{{< br >}} Corporate and international efforts to abate global climate change; sustainability and global business {{< br >}}{{< br >}}  | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit22_081jf10_lec24a)) | &nbsp; |
-| 24b | Golay | Hydropower | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.6MB]({{< baseurl >}}/resources/mit22_081jf10_lec24b)) | &nbsp; |
-| 25a | Robert Stoner, MIT Energy Initiative |  {{< br >}}{{< br >}} "Sustainable Energy: Options for Africa." {{< br >}}{{< br >}} Challenges and options for electricity systems in Sub-Saharan Africa {{< br >}}{{< br >}}  | ([PDF - 7.9MB]({{< baseurl >}}/resources/mit22_081jf10_lec25a)) | Chapter 12 |
-| 25b | Golay/all | Course summary, panel discussion | &nbsp; |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+INSTRUCTORS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SLIDES
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Part I: Energy in context**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1a
+{{< tdclose >}}
+{{< tdopen >}}
+Golay
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction
+
+\- Historical context (the post steam engine evolving growth of the developed countries, superimposed on the growing energy needs of the less-developed countries)
+
+\- Energy sources for a more sustainable future
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Overview and administration ([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec01a_1))
+
+Energy uses in different countries (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 9.4MB]({{< baseurl >}}/resources/mit22_081jf10_lec01a_2))
+
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 8.9MB]({{< baseurl >}}/resources/mit22_081jf10_lec01a_3))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1b
+{{< tdclose >}}
+{{< tdopen >}}
+Wright
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Overview of energy use and related issues
+
+\- Major energy options; issues of supply and demand
+
+\- Overview of units and dimensions for global energy flows (Quads, MMBOE, MW, EJ, etc.); energy conversions (chemical to thermal, chemical to electric, etc.); and economic considerations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.3MB]({{< baseurl >}}/resources/mit22_081jf10_lec01b))
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[Ronald Prinn](http://web.mit.edu/rprinn/), MIT Earth, Atmospheric, and Planetary Sciences
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Climate Change: Science, Economics, and Policy."
+
+Global climate change issues and responses
+
+\- Greenhouse gas emissions and potential effects
+
+\- Modeling of atmospheric, oceanic, and terrestrial effects
+
+\- Effects on ecology and biodiversity (local-regional-global)
+
+\- Responses to CO2 build-up
+
+\- Mitigation?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB]({{< baseurl >}}/resources/mit22_081jf10_lec02))
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 4.1-4.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3a
+{{< tdclose >}}
+{{< tdopen >}}
+Field
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Toolbox 1: Energy transfer and conversion methods
+
+\- Energy sources and uses
+
+\- Survey of conversion processes
+
+\- Conversion efficiency and rate considerations
+
+\- Conversion case study
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec03a))
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3b
+{{< tdclose >}}
+{{< tdopen >}}
+Golay
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Drake, Elisabeth. "Energy and Sustainability Issues." 10.391J, January 2007.
+
+Sustainability, energy, and clean technologies in context
+
+\- Frameworks for evaluation
+
+\- Sustainability attributes
+
+\- Time and space scales
+
+\- Population and consumption growth
+
+\- Tradeoffs and choices
+
+\- Uncertainty
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec03b))
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 6.1, 6.4-6.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4a
+{{< tdclose >}}
+{{< tdopen >}}
+Wright
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Recitation 1: Discussion of sustainability issues
+
+\- Energy footprints
+
+\- Opportunities and barriers; timing issues
+
+\- Drivers of change
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec04a))
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4b
+{{< tdclose >}}
+{{< tdopen >}}
+Golay
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Toolbox 2: Resource evaluation and depletion analyses
+
+\- Present energy sources (fossil, nuclear, hydro)
+
+\- Major energy alternatives (solar, geologic, ocean)
+
+\- Resource base – uncertainties, grade/quality issues, resource vs. reserve estimates, economic evaluation frameworks
+
+\- Other resource constraints that affect sustainability (esp. land, water, labor)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec04b))
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5a
+{{< tdclose >}}
+{{< tdopen >}}
+Field
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Toolbox 3: Energy conversion, transmission, and storage
+
+\- Matching supply and demand to minimize losses
+
+\- Energy storage and transmission issues
+
+\- Energy chains and connected efficiencies
+
+\- Storage modes
+
+\- Ragone plot
+
+\- Transmission of fossil fuels and electricity
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit22_081jf10_lec05a))
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5b
+{{< tdclose >}}
+{{< tdopen >}}
+Katherine Dykes, MIT Engineering Systems Division
+{{< tdclose >}}
+{{< tdopen >}}
+"Wind Power Fundamentals." (contributions from Alex Kalmikov and Kathy Araujo)
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.8MB]({{< baseurl >}}/resources/mit22_081jf10_lec05b))
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6a
+{{< tdclose >}}
+{{< tdopen >}}
+Wright
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Toolbox 4: Systems analysis methodologies
+
+\- Scoping analysis; simulation models; economic models; life cycle analysis; systems dynamic models; decision models
+
+\- Selecting system boundaries
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec06a))
+{{< tdclose >}}
+{{< tdopen >}}
+Section 6.2, 6.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6b
+{{< tdclose >}}
+{{< tdopen >}}
+Golay
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Toolbox 5: Energy supply, demand, and storage planning
+
+\- Matching energy density of supply and demand
+
+\- Temporal and geographical distributions
+
+\- Energy transmission and distribution (pipelines, tankers, rail, power lines)
+
+\- Role of energy storage; intermittency; influences of pricing during demand peaks and valleys
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec06b))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7a
+{{< tdclose >}}
+{{< tdopen >}}
+Stephen Fairfax, MTechnology, Inc.
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Changes in the Electric Power Sector."
+
+The electric power system and requirements for success
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.6MB]({{< baseurl >}}/resources/mit22_081jf10_lec07a))
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7b
+{{< tdclose >}}
+{{< tdopen >}}
+Tim Heidel, MIT Energy Initiative
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"New Challenges and Opportunities for the Electric Grid."
+
+Historical factor and prospects for change in the electric power grid
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 2.2MB]({{< baseurl >}}/resources/mit22_081jf10_lec07b))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8a
+{{< tdclose >}}
+{{< tdopen >}}
+Wright
+{{< tdclose >}}
+{{< tdopen >}}
+Toolbox 6: Electrical systems dynamics
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec08a))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8b
+{{< tdclose >}}
+{{< tdopen >}}
+Wright
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Toolbox 7: Economic feasibility assessment methods
+
+\- Engineering, capital, and investment costs
+
+\- Matching energy density of supply and demand
+
+\- Temporal and geographical distributions
+
+\- Energy transmission and distribution (pipelines, tankers, rail, power lines)
+
+\- Role of energy storage; intermittency; influences of pricing during demand peaks and valleys
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec08b))
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9a
+{{< tdclose >}}
+{{< tdopen >}}
+Field
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Toolbox 8: Thermodynamics and efficiency calculations
+
+\- First and second laws
+
+\- Availability
+
+\- Power cycles and heat pumps
+
+\- Topping and bottoming cycles
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec09a))
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9b
+{{< tdclose >}}
+{{< tdopen >}}
+[Robert Stavins](https://www.hks.harvard.edu/faculty/robert-stavins), Harvard Kennedy School of Government
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"International Climate Change Policy: From Copenhagen to Cancún, and Beyond."
+
+Carbon limitation policy options
+
+\- Cap and trade
+
+\- Carbon tax
+
+\- Command and control
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec09b))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Part II: Specific Energy Technologies**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Golay
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear energy I: Basics and current status
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.8MB]({{< baseurl >}}/resources/mit22_081jf10_lec10))
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11a
+{{< tdclose >}}
+{{< tdopen >}}
+Field
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Fossil energy I
+
+\- Fuel conversion, power cycles, combined cycles
+
+\- Advanced technologies
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec11a))
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11b
+{{< tdclose >}}
+{{< tdopen >}}
+Green
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"The Dominant Piece of the Energy System: Fossil Fuels."
+
+Fossil energy II
+
+\- Types and characteristics
+
+\- Technologies
+
+\- Associated economics and impacts
+
+\- Fossil fuel switching (synfuels, LNG, carbon sequestration)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.1MB]({{< baseurl >}}/resources/mit22_081jf10_lec11b))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12a
+{{< tdclose >}}
+{{< tdopen >}}
+Craig Olmsted, Cape Wind
+{{< tdclose >}}
+{{< tdopen >}}
+Cape Wind energy and offshore wind projects
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12b
+{{< tdclose >}}
+{{< tdopen >}}
+[Ernest Moniz](http://web.mit.edu/physics/people/faculty/moniz_ernest.html), MIT Physics / Engineering Systems Division
+{{< tdclose >}}
+{{< tdopen >}}
+Current energy policy
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 3.0MB]({{< baseurl >}}/resources/mit22_081jf10_lec12b))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13a
+{{< tdclose >}}
+{{< tdopen >}}
+[Ralph Gakenheimer](http://dusp.mit.edu/faculty/ralph-gakenheimer), MIT Urban Studies and Planning
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Transport Issues and the Environment in Latin America."
+
+Transportation in developing countries
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 2.3MB]({{< baseurl >}}/resources/mit22_081jf10_lec13a))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13b
+{{< tdclose >}}
+{{< tdopen >}}
+Green
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Fossil energy III
+
+\- Alternative transportation fuels
+
+\- Emission performance improvements
+
+\- Connections to new engine technology
+
+\- Cleaner fuel
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.2MB]({{< baseurl >}}/resources/mit22_081jf10_lec13b))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14a
+{{< tdclose >}}
+{{< tdopen >}}
+Ralph Izzo, PSEG
+{{< tdclose >}}
+{{< tdopen >}}
+Electricity generation options
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14b
+{{< tdclose >}}
+{{< tdopen >}}
+Golay
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear energy II: Waste disposal and Yucca Mountain
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.5MB]({{< baseurl >}}/resources/mit22_081jf10_lec14b))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15a
+{{< tdclose >}}
+{{< tdopen >}}
+Golay
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear energy III: Expansion of civilian nuclear power and proliferation
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB]({{< baseurl >}}/resources/mit22_081jf10_lec15a))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15b
+{{< tdclose >}}
+{{< tdopen >}}
+Wright
+{{< tdclose >}}
+{{< tdopen >}}
+Fusion as a future energy source?
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.1MB]({{< baseurl >}}/resources/mit22_081jf10_lec15b))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16a
+{{< tdclose >}}
+{{< tdopen >}}
+Michael Fehler, MIT Earth, Atmospheric, and Planetary Sciences
+{{< tdclose >}}
+{{< tdopen >}}
+Carbon management options
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16b
+{{< tdclose >}}
+{{< tdopen >}}
+Michael Fehler, MIT Earth, Atmospheric, and Planetary Sciences
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Geothermal energy
+
+\- Resources, types, magnitudes
+
+\- Technical, environmental, societal, and economic issues
+
+\- Drilling technologies
+
+\- Subsurface reservoir systems
+
+\- Heat and power conversion techniques
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+[Vladimir Bulovic](http://www.rle.mit.edu/people/directory/vladimir-bulovic/), MIT Electrical Engineering and Computer Science
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Capturing Solar Energy."
+
+Solar photovoltaics and thermal energy
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Hussein Abdelhalim, Mark Artz, et al.
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 2: Carbon limitation options / critique (student-led discussion)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec18))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19a
+{{< tdclose >}}
+{{< tdopen >}}
+Green
+{{< tdclose >}}
+{{< tdopen >}}
+Biomass I: Resources and uses
+
+\- Resource types and requirements
+
+\- Technical and environmental issues
+
+\- Utilization options
+
+\- Economic projections
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit22_081jf10_lec19a))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19b
+{{< tdclose >}}
+{{< tdopen >}}
+Green
+{{< tdclose >}}
+{{< tdopen >}}
+Biomass II: Producing liquid fuels
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.3MB]({{< baseurl >}}/resources/mit22_081jf10_lec19b))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Part III: Energy end use, option assessment, and tradeoff analysis**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20a
+{{< tdclose >}}
+{{< tdopen >}}
+Don MacKenzie, MIT Engineering Systems Division
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Automotive Technologies and Fuel Economy Policy." (contributions from Irene Berry)
+
+Transportation
+
+\- Technology issues
+
+\- Timescales for change
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 2.2MB]({{< baseurl >}}/resources/mit22_081jf10_lec20a))
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 18.4-18.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20b
+{{< tdclose >}}
+{{< tdopen >}}
+Addison Stark, MIT Mechanical Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lifecycle analysis of biomass conversion
+
+\- Land use issues (ecological stress, competition with food, water use, topsoil erosion, occupational hazards)
+
+\- Net energy balance and energy integration opportunities
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec20b))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21a
+{{< tdclose >}}
+{{< tdopen >}}
+Katherine Dykes, MIT Engineering Systems Division
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Systems Dynamics & Sustainable Energy."
+
+Wind system dynamics, barriers to entry
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit22_081jf10_lec21a))
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21b
+{{< tdclose >}}
+{{< tdopen >}}
+[Donald Sadoway](https://dmse.mit.edu/people/donald-r-sadoway), MIT Materials Science & Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Electrochemical Approaches to Electrical Energy Storage."
+
+Electrochemical energy conversions
+
+\- Fuel Cells
+
+\- Batteries
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 4.6MB]({{< baseurl >}}/resources/mit22_081jf10_lec21b))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22a
+{{< tdclose >}}
+{{< tdopen >}}
+[Leon Glicksman](http://architecture.mit.edu/people/profiles/prglicks.html), MIT Architecture / Mechanical Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"The Energy Crisis: A Neglected Solution."
+
+Sustainable buildings in developing countries
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 4.6MB]({{< baseurl >}}/resources/mit22_081jf10_lec22a))
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22b
+{{< tdclose >}}
+{{< tdopen >}}
+Golay
+{{< tdclose >}}
+{{< tdopen >}}
+Toolbox 9: Probabilistic risk analysis
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 3.2MB]({{< baseurl >}}/resources/mit22_081jf10_lec22b))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Edward Alfano, et al.
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 3: Current energy policy / critique (student-led discussion)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec23))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24a
+{{< tdclose >}}
+{{< tdopen >}}
+[John Reilly](https://mitsloan.mit.edu/faculty/directory/john-m-reilly), MIT Sloan School of Management
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Why So Little Progress on International Climate Negotiations?"
+
+Corporate and international efforts to abate global climate change; sustainability and global business
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit22_081jf10_lec24a))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24b
+{{< tdclose >}}
+{{< tdopen >}}
+Golay
+{{< tdclose >}}
+{{< tdopen >}}
+Hydropower
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.6MB]({{< baseurl >}}/resources/mit22_081jf10_lec24b))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25a
+{{< tdclose >}}
+{{< tdopen >}}
+Robert Stoner, MIT Energy Initiative
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Sustainable Energy: Options for Africa."
+
+Challenges and options for electricity systems in Sub-Saharan Africa
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 7.9MB]({{< baseurl >}}/resources/mit22_081jf10_lec25a))
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25b
+{{< tdclose >}}
+{{< tdopen >}}
+Golay/all
+{{< tdclose >}}
+{{< tdopen >}}
+Course summary, panel discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
