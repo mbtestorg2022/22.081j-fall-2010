@@ -61,9 +61,9 @@ Introduction
 
 Overview and administration ([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec01a_1))
 
-Energy uses in different countries (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 9.4MB]({{< baseurl >}}/resources/mit22_081jf10_lec01a_2))
+Energy uses in different countries ([PDF - 9.4MB]({{< baseurl >}}/resources/mit22_081jf10_lec01a_2))
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 8.9MB]({{< baseurl >}}/resources/mit22_081jf10_lec01a_3))
+([PDF - 8.9MB]({{< baseurl >}}/resources/mit22_081jf10_lec01a_3))
 
 
 {{< tdclose >}}
@@ -125,7 +125,7 @@ Global climate change issues and responses
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB]({{< baseurl >}}/resources/mit22_081jf10_lec02))
+([PDF - 1.8MB]({{< baseurl >}}/resources/mit22_081jf10_lec02))
 {{< tdclose >}}
 {{< tdopen >}}
 Sections 4.1-4.3
@@ -284,7 +284,7 @@ Toolbox 3: Energy conversion, transmission, and storage
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit22_081jf10_lec05a))
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec05a))
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 16
@@ -302,7 +302,7 @@ Katherine Dykes, MIT Engineering Systems Division
 "Wind Power Fundamentals." (contributions from Alex Kalmikov and Kathy Araujo)
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.8MB]({{< baseurl >}}/resources/mit22_081jf10_lec05b))
+([PDF - 3.8MB]({{< baseurl >}}/resources/mit22_081jf10_lec05b))
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 15
@@ -721,7 +721,7 @@ Golay
 Nuclear energy II: Waste disposal and Yucca Mountain
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.5MB]({{< baseurl >}}/resources/mit22_081jf10_lec14b))
+([PDF - 5.5MB]({{< baseurl >}}/resources/mit22_081jf10_lec14b))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -739,7 +739,7 @@ Golay
 Nuclear energy III: Expansion of civilian nuclear power and proliferation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB]({{< baseurl >}}/resources/mit22_081jf10_lec15a))
+([PDF - 1.9MB]({{< baseurl >}}/resources/mit22_081jf10_lec15a))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -757,7 +757,7 @@ Wright
 Fusion as a future energy source?
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.1MB]({{< baseurl >}}/resources/mit22_081jf10_lec15b))
+([PDF - 3.1MB]({{< baseurl >}}/resources/mit22_081jf10_lec15b))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -877,7 +877,7 @@ Biomass I: Resources and uses
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit22_081jf10_lec19a))
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec19a))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -979,7 +979,7 @@ Wind system dynamics, barriers to entry
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit22_081jf10_lec21a))
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec21a))
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 17
@@ -1091,7 +1091,7 @@ Corporate and international efforts to abate global climate change; sustainabili
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit22_081jf10_lec24a))
+([PDF]({{< baseurl >}}/resources/mit22_081jf10_lec24a))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -1109,7 +1109,7 @@ Golay
 Hydropower
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.6MB]({{< baseurl >}}/resources/mit22_081jf10_lec24b))
+([PDF - 2.6MB]({{< baseurl >}}/resources/mit22_081jf10_lec24b))
 {{< tdclose >}}
 {{< tdopen >}}
  

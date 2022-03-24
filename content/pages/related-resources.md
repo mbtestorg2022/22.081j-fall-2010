@@ -14,13 +14,13 @@ McKay, David J. C. [_Sustainable Energy – Without the Hot Air_.](http://www.wi
 
 Deutch, John, Ernest Moniz, et al. [_The Future of Nuclear Power_.](http://web.mit.edu/nuclearpower/) Massachusetts Institute of Technology, 2009.
 
-Tester, Jefferson W., et al. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"_The Future of Geothermal Energy: Impact of Enhanced Geothermal Systems (EGS) on the United States in the 21st Century_." (PDF - 22.6MB)](https://energy.mit.edu/wp-content/uploads/2006/11/MITEI-The-Future-of-Geothermal-Energy.pdf) Massachusetts Institute of Technology, 2006.
+Tester, Jefferson W., et al. ["_The Future of Geothermal Energy: Impact of Enhanced Geothermal Systems (EGS) on the United States in the 21st Century_." (PDF - 22.6MB)](https://energy.mit.edu/wp-content/uploads/2006/11/MITEI-The-Future-of-Geothermal-Energy.pdf) Massachusetts Institute of Technology, 2006.
 
 Deutch, John, Ernest Moniz, et al. [_The Future of Coal: Options for a Carbon-Constrained World_.](http://web.mit.edu/coal/) Massachusetts Institute of Technology, 2007.
 
-Bernstein, Lenny, et al. _Climate Change 2007: Synthesis Report - Summary for Policymakers_. Intergovernmental Panel on Climate Change, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB](http://www.ipcc.ch/pdf/assessment-report/ar4/syr/ar4_syr_spm.pdf))
+Bernstein, Lenny, et al. _Climate Change 2007: Synthesis Report - Summary for Policymakers_. Intergovernmental Panel on Climate Change, 2007. ([PDF - 1.9MB](http://www.ipcc.ch/pdf/assessment-report/ar4/syr/ar4_syr_spm.pdf))
 
-_Bali Action Plan_. UN Framework Convention on Climate Change, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://unfccc.int/resource/docs/2007/cop13/eng/06a01.pdf#page=3))
+_Bali Action Plan_. UN Framework Convention on Climate Change, 2007. ([PDF](http://unfccc.int/resource/docs/2007/cop13/eng/06a01.pdf#page=3))
 
 Lomborg, Bjørn. _Cool It: The Skeptical Environmentalist's Guide to Global Warming_. Vintage, 2010. ISBN: 9780307741103.
 
@@ -32,13 +32,13 @@ Lomborg, Bjørn. _Cool It: The Skeptical Environmentalist's Guide to Global Warm
 
 Lizza, Ryan. "[As The World Burns](http://www.newyorker.com/reporting/2010/10/11/101011fa_fact_lizza)." _The New Yorker_, October 11, 2010.
 
-"Addressing New Jersey's Climate and Energy Challenges." PSEG, Summer 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.pseg.com/info/environment/pdf/white_paper.pdf))
+"Addressing New Jersey's Climate and Energy Challenges." PSEG, Summer 2007. ([PDF](http://www.pseg.com/info/environment/pdf/white_paper.pdf))
 
 Davis, Steven J., Ken Caldeira, and H. Damon Matthews. "[Future CO2 Emissions and Climate Change from Existing Energy Infrastructure](http://dx.doi.org/10.1126/science.1188566)." _Science_ 329 (September 10, 2010): 1330-1333.
 
 Hoffert, Martin I. "[Farewell to Fossil Fuels](http://dx.doi.org/10.1126/science.1195449)?" _Science_ 329 (September 10, 2010): 1292-1294.
 
-"USG Position on the African Development Bank's Investment in ESKOM Medupi Coal Fired Power Project." U.S. Department of Treasury, November 25, 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.treasury.gov/resource-center/international/development-banks/Documents/USG Position on AFDB%27s investment in Eskom%27s Medupi coal fired power plant.pdf))
+"USG Position on the African Development Bank's Investment in ESKOM Medupi Coal Fired Power Project." U.S. Department of Treasury, November 25, 2009. ([PDF](http://www.treasury.gov/resource-center/international/development-banks/Documents/USG Position on AFDB%27s investment in Eskom%27s Medupi coal fired power plant.pdf))
 
 Bekker, Bernard, et al. "[South Africa's Rapid Electrification Programme: Policy, Institutional, Planning, Financing, and Technical Innovations](http://dx.doi.org/10.1016/j.enpol.2008.04.014)." _Energy Policy_ 36 (2008): 3125-3137.
 
