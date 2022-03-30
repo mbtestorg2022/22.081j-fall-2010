@@ -5,6 +5,7 @@ description: 'This resource contains solutions for the problem statements relate
   engine. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-081j-introduction-to-sustainable-energy-fall-2010/dbd59023c32a16e255cf1f12e3889647_MIT22_081JF10_midterm1_sol.pdf
 file_type: application/pdf
+parent_uid: 246e85fa-874a-ef91-992e-4b1aec92dc98
 resourcetype: Document
 title: MIT22_081JF10_midterm1_sol.pdf
 uid: dbd59023-c32a-16e2-55cf-1f12e3889647
